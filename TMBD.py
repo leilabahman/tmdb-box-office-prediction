@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on TApr 15, 2019
+Created on Apr 15, 2019
 """
 
 # importing packages
