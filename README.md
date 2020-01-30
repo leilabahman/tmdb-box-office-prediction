@@ -4,18 +4,18 @@ It is very important to have accurate prediction in case of box office predictio
 
 The dataset contains information about the past movies and contains the following features:
 
-*id: Represents an integer identification number for each movie.
-*belongs_to_collection: Contains the TMDB Id, Collection Name, Movie Poster and Backdrop URL of a movie in JSON format.
+* id: Represents an integer identification number for each movie.
+* belongs_to_collection: Contains the TMDB Id, Collection Name, Movie Poster and Backdrop URL of a movie in JSON format.
 
-*budget: demonstrates the budget of each movie in dollars.
+* budget: demonstrates the budget of each movie in dollars.
 
-*genres: Includes  all the Genres Name & TMDB Id in JSON Format. 
+* genres: Includes  all the Genres Name & TMDB Id in JSON Format. 
 
-*homepage: Includes the official homepage URL of a movie.
+* homepage: Includes the official homepage URL of a movie.
 
-*imdb_id: IMDB id of a movie ( string format).
+* imdb_id: IMDB id of a movie ( string format).
 
-*original_language: Contains two-digit code of the original language, in which the movie was produced. For example: en = English, fr = french.
+* original_language: Contains two-digit code of the original language, in which the movie was produced. For example: en = English, fr = french.
 
 * original_title: The original title of a movie. If the original title is in English,  tittle & Original title are the same.
 
