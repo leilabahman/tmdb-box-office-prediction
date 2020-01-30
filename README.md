@@ -1,1 +1,1 @@
-# tmdb-box-office-prediction
+# TMDB Box Office Prediction
