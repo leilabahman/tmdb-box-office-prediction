@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # reading the train data
-train = pd.read_csv('C:/Users/Lavesh/.PyCharm2018.2/config/scratches/IMDB_Data/train.csv')
+train = pd.read_csv('.../IMDB_Data/train.csv')
 
 # json columns in data set
 dict_columns = ['belongs_to_collection', 'genres', 'production_companies',
